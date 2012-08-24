@@ -1,0 +1,246 @@
+body
+{
+background-image:url("../bg_images/background.png");
+padding-left:100px;
+font-family:ALGERIAN;
+color:white;
+}
+
+.full
+{
+text-align:center;
+}
+
+.lout
+{
+position:absolute;
+left:900px;
+top:0px;
+}
+
+.submit
+{
+position:relative;
+left:500px;
+width:70px;
+
+}
+.disp a
+{
+color:white;
+font-size:30px;
+}
+.disp
+{
+color:white;
+font-size:30px;
+}
+.welcme
+{
+position:relative;
+left:300px;
+font-size:17px;
+font-family:ALGERIAN;
+color:white;
+}
+.ip
+{
+height:50px;
+}
+.txt
+{
+
+font-size:17px;
+font-family:ALGERIAN;
+color:white;
+text-align:left;
+}
+
+#header
+{
+position:relative;
+top:-15px;
+left:320px;
+}
+
+
+#header ul {
+		list-style: none;
+		padding: 0;
+		margin: 0;
+		
+	}
+	#header li:hover
+	{
+
+background-image:url("../bg_images/tab2.gif");
+	}
+	
+	#header li {
+		float:left;
+		padding-left:35px;
+		padding-right:35px;
+			background-image:url("../bg_images/navi2.gif");
+		
+		
+		border-radius:30px;
+		padding-top:5px;
+		padding-bottom:8px;
+		
+	}
+	
+	#header a {
+		
+		text-decoration: none;
+		color:white;
+		display:block;
+		font-family:ALGERIAN;
+		
+	}
+	
+	#header a:hover {
+	
+		}
+	
+	#header #selected {
+	}
+	
+	#header #selected a {
+		padding-bottom: 2px;
+		font-weight: bold;
+		
+	}
+
+
+
+div.whole
+{
+
+float:left;
+border:1px solid gainsboro;
+background-image:url("../bg_images/bi.jpg");
+-webkit-border-radius: 13px;-moz-border-radius: 13px;border-radius: 13px;
+
+height:800;
+width:1000;
+position:relative;
+
+
+
+}
+
+div.sidebar
+{
+position:relative;
+left:-30px;
+color:blue;
+}
+
+
+label
+{
+width: 4em;
+float: left;
+
+margin-right: 0.5em;
+color:white;
+
+}
+.submit input
+{
+margin-left: 4.5em;
+color: white;
+background: black;
+
+} 
+
+fieldset.tab
+{
+background-color:black;
+
+}
+
+
+
+body {
+		font: small arial, helvetica, sans-serif;	     
+}
+
+	
+	#content {
+		
+		
+		color:white;
+		padding-right:10px;
+		width:auto;
+		height:auto;
+		
+	}
+	#content a
+	{
+	color:white;
+	}
+	#content a:hover
+	{
+	color:yellow;
+	}
+	#content img
+	{
+	
+	margin:0;
+	}
+
+	
+	div.left
+	{
+	float:left;
+	position:relative;
+	left:30px;
+	}
+	div.imgs
+	{
+	height:100px;
+	width:100px;
+	border:1px solid black;
+	}
+div.scroll
+{
+padding-left:20px;
+margin-top:20px;
+margin-bottom
+
+}
+
+div.in-map
+{
+float:left;
+
+}
+
+div.mapimg
+{
+float:left;
+}
+
+#mapd
+{
+line-height:150%;
+float:left;
+margin-left:45px;
+font-family:footlight mt light;	
+font-size:13px;
+}
+
+#mapd2
+{
+line-height:150%;
+float:left;
+clear:both;
+margin-left:45px;
+font-family:footlight mt light;	
+font-size:13px;
+}
+div.desc
+{
+float:left;
+}

@@ -1,0 +1,5 @@
+Database name is klik
+
+There are two tables
+1.login(uname,pwd)
+2.images(uname,iname,time)
